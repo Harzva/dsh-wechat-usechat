@@ -1,0 +1,3 @@
+- insert:
+    - id: harzva-wechat-usechat
+      name: '@harzva/dsh-wechat-usechat'

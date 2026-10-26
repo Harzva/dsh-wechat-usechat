@@ -1,0 +1,7 @@
+This independent DSH adapter uses the published @shennian/usechat 0.1.0 CLI
+and its @shennian/usechat-core and @shennian/usechat-model-provider 0.1.0
+dependencies. Upstream project: https://github.com/CosmosShadow/usechat
+Upstream license: MIT. Its code is not copied into this repository.
+
+DSH packages used for tool registration: @deepseek-ai/dsh-tools 0.2.1-rc.2
+and @deepseek-ai/cordis ~4.0.5. See their own package licenses.
